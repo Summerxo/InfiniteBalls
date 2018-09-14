@@ -1,4 +1,4 @@
---Give Weapons Unlimited Weapon/Ammo
+--Specifically for Balls/Snowballs. 
 
 Citizen.CreateThread(function()
     while true do
